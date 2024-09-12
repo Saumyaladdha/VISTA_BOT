@@ -6,3 +6,10 @@ CHAT WITH MODEL
 
 CHAT WITH DOC
 ![chat with doc](https://github.com/user-attachments/assets/ebbd29e6-0e31-4342-a8cb-cfe39ff19a65)
+
+AI BASED VOICE ASSISTANT
+![AI BASED VOICE ASSISTANT](https://github.com/user-attachments/assets/1c4f860a-650a-4be5-a7b3-6e9fde83ff4c)
+
+MP4/MP3 TO TEXT/AUDIO QUESTION
+
+![MP4 OR MP3 UPLOAD TO TEXT:AUDIO](https://github.com/user-attachments/assets/7f74aa36-e609-4ae3-ac38-293322a1d137)
